@@ -1,0 +1,1 @@
+CHROME_PROFILE_PATH = "C:\\Users\\Gaurav\\AppData\\Local\\Google\\Chrome\\User Data\\Default\kottt"
